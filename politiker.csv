@@ -1,0 +1,67 @@
+Name;Vorname;Partei;Funktion;FB-Link;FB-ID;RawText;FilteredText
+Merkel;Angela;CDU;Parteivorsitzende/Bundeskanzlerin;https://www.facebook.com/AngelaMerkel;59788447049;text/merkel.txt;text/merkel_filtered.txt
+Tauber;Peter;CDU;Generalsekretär;https://www.facebook.com/tauber.peter;154308617994137;text/tauber.txt;text/tauber_filtered.txt
+Bouffier;Volker;CDU;Stellv. Vorsitzender;https://www.facebook.com/volker.bouffier;53810387822;text/bouffier.txt;text/bouffier_filtered.txt
+von der Leyen;Ursula;CDU;Bundesministerin der Verteidigung/Stellv. Vorsitzende;;;text/von der leyen.txt;text/von der leyen_filtered.txt
+Klöckner;Julia;CDU;Stellv. Vorsitzende;https://www.facebook.com/juliakloeckner;298621020195483;text/klöckner.txt;text/klöckner_filtered.txt
+Laschet;Armin;CDU;Stellv. Vorsitzender;https://www.facebook.com/ArminLaschet;109478215738226;text/laschet.txt;text/laschet_filtered.txt
+Strobl;Thomas;CDU;Stellv. Vorsitzender;https://www.facebook.com/thomasstrobl.cdu;262986640427464;text/strobl.txt;text/strobl_filtered.txt
+de Maizière;Thomas;CDU;Bundesminister des Innern;;;text/de maizière.txt;text/de maizière_filtered.txt
+Schäuble;Wolfgang;CDU;Bundesminister der Finanzen;;;text/schäuble.txt;text/schäuble_filtered.txt
+Gröhe;Hermann;CDU;Bundesminister für Gesundheit;https://www.facebook.com/groehe;84534791408;text/gröhe.txt;text/gröhe_filtered.txt
+Wanka;Johanna;CDU;Bundesministerin für Bildung und Forschung;;;text/wanka.txt;text/wanka_filtered.txt
+Altmaier;Peter;CDU;Chef des Bundeskanzleramtes und Bundesminister für besondere Aufgaben;https://www.facebook.com/peter.altmaier;172834814572;text/altmaier.txt;text/altmaier_filtered.txt
+CDU;CDU;CDU;Partei;https://www.facebook.com/CDU;78502295414;text/cdu.txt;text/cdu_filtered.txt
+Gabriel;Sigmar;SPD;Parteivorsitzender/Bundesminister für Wirtschaft und Energie;https://www.facebook.com/sigmar.gabriel;104493292916735;text/gabriel.txt;text/gabriel_filtered.txt
+Barley;Katarina;SPD;Generalsekretärin;https://www.facebook.com/katarina.barley;1522202731410785;text/barley.txt;text/barley_filtered.txt
+Kraft;Hannelore;SPD;Stellv. Vorsitzende;https://www.facebook.com/hannelorekraft;28595910348;text/kraft.txt;text/kraft_filtered.txt
+Schäfer-Gümbel;Thorsten;SPD;Stellv. Vorsitzender;https://www.facebook.com/thorstenschaeferguembel;34299468079;text/schäfer-gümbel.txt;text/schäfer-gümbel_filtered.txt
+Schwesig;Manuela;SPD;Stellv. Vorsitzende/Bundesministerin für Familie, Senioren, Frauen und Jugend;https://www.facebook.com/ManuelaSchwesig;195950842440;text/schwesig.txt;text/schwesig_filtered.txt
+Scholz;Olaf;SPD;Stellv. Vorsitzender;https://www.facebook.com/olafscholz;104145414310;text/scholz.txt;text/scholz_filtered.txt
+Aydan;Özo?uz;SPD;Stellv. Vorsitzende;https://www.facebook.com/AydanOezoguz;314261885329155;text/aydan.txt;text/aydan_filtered.txt
+Stegner;Ralf;SPD;Stellv. Vorsitzender;https://www.facebook.com/ralf.stegner;480641715335370;text/stegner.txt;text/stegner_filtered.txt
+Steinmeier;Frank-Walter;SPD;Bundesminister des Auswärtigen;https://www.facebook.com/FrankWalterSteinmeier;81073125485;text/steinmeier.txt;text/steinmeier_filtered.txt
+Maas;Heiko;SPD;Bundesminister der Justiz und für Verbraucherschutz;https://www.facebook.com/heiko.maas.98;1431909580371764;text/maas.txt;text/maas_filtered.txt
+Nahles;Andrea;SPD;Bundesministerin für Arbeit und Soziales;https://www.facebook.com/andrea.nahles;161929783920704;text/nahles.txt;text/nahles_filtered.txt
+SPD;SPD;SPD;Partei;https://www.facebook.com/SPD;47930567748;text/spd.txt;text/spd_filtered.txt
+Özdemir;Cem;B90/Grüne;Parteivorsitzender;https://www.facebook.com/Cem;36379612880;;
+Peter;Simone;B90/Grüne;Parteivorsitzende;https://www.facebook.com/Simone.Peter.Gruene;1381574718760756;;
+Göring-Eckardt;Katrin;B90/Grüne;Fraktionsvorsitzende;https://www.facebook.com/GoeringEckardt;60074915591;;
+Hofreiter;Anton;B90/Grüne;Fraktionsvorsitzender;https://www.facebook.com/anton.hofreiter;598216760241817;;
+Künast;Renate;B90/Grüne;Vorsitzende des Ausschusses für Recht und Verbraucherschutz;https://www.facebook.com/renate.kuenast;90022819050;;
+Roth;Claudia;B90/Grüne;Bundestagsvizepräsidentin/Sprecherin für Auswärtige Kulturpolitik;https://www.facebook.com/Roth;80635590663;;
+Trittin;Jürgen;B90/Grüne;Mitglied im Auswärtigen Ausschuss;https://www.facebook.com/juergen.trittin;87410317539;;
+B90/Grüne;B90/Grüne;B90/Grüne;Partei;https://www.facebook.com/B90DieGruenen;47217143218;;
+Seehofer;Horst;CSU;Parteivorsitzender;https://www.facebook.com/HorstSeehofer;43761823033;;
+Scheuer;Andreas;CSU;Generalsekretär;https://www.facebook.com/Andreas.Scheuer;127608807419079;;
+Weber;Manfred;CSU;Stellv. Vorsitzender;https://www.facebook.com/manfred.weber;456082177763485;;
+Schmidt;Christian;CSU;Stellv. Vorsitzender/Bundesminister für Ernährung und Landwirtschaft;;;;
+Stamm;Barbara;CSU;Stellv. Vorsitzende;;;;
+Niebler;Angelika;CSU;Stellv. Vorsitzende;https://www.facebook.com/aniebler;183448258342806;;
+Gribl;Kurt;CSU;Stellv. Vorsitzender;https://www.facebook.com/KurtGribl2014;155778964585063;;
+Dobrindt;Alexander;CSU;Bundesminister für Verkehr und digitale Infrastruktur;https://www.facebook.com/Alexander.Dobrindt;62772136958;;
+Müller;Gerd;CSU;Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung;;;;
+CSU;CSU;CSU;Partei;https://www.facebook.com/CSU;81386795687;;
+Kipping;Katja;Linke;Parteivorsitzende;https://www.facebook.com/KatjaKipping;214211071944227;;
+Riexinger;Bernd;Linke;Parteivorsitzender;https://www.facebook.com/riexinger.bernd;151260125059312;;
+Lay;Caren;Linke;Stellv. Vorsitzende;https://www.facebook.com/caren.lay;668729169812570;;
+Troost;Axel;Linke;Stellv. Vorsitzender;https://www.facebook.com/axel.troost;699034440138625;;
+Pflüger;Tobias;Linke;Stellv. Vorsitzender;https://www.facebook.com/tpflueger;105883686278260;;
+Wissler;Janine;Linke;Stellv. Vorsitzende;https://www.facebook.com/JanineWissler;403554119734838;;
+Bartsch;Dietmar;Linke;Fraktionsvorsitzender;https://www.facebook.com/DietmarBartschMdB;135751919841485;;
+Gysi;Gregor;Linke;Bundestagsabgeordneter;https://www.facebook.com/gregor.gysi;42497482692;;
+Wagenknecht;Sahra;Linke;Fraktionsvorsitzende;https://www.facebook.com/sahra.wagenknecht;206307219386683;;
+Linke;Linke;Linke;Partei;https://www.facebook.com/linkspartei;47694585682;;
+Lindner;Christian;FDP;Parteivorsitzender;https://www.facebook.com/lindner.christian;143504445664134;;
+Beer;Nicola;FDP;Generalsekretärin;https://www.facebook.com/nicolabeerfdp;206866712830769;;
+Kubicki;Wolfgang;FDP;Stellv. Vorsitzender;https://www.facebook.com/kubicki.wolfgang;403531479663968;;
+Strack-Zimmermann;Marie-Agnes;FDP;Stellv. Vorsitzende;https://www.facebook.com/mastrackzimmermann;782677895144628;;
+Suding;Katja;FDP;Stellv. Vorsitzende;https://www.facebook.com/suding;302158106494053;;
+Graf Lambsdorff;Alexander;FDP;Vertreter der ALDE-Fraktion;https://www.facebook.com/Alexander.Lambsdorff;519398914740380;;
+FDP;FDP;FDP;Partei;https://www.facebook.com/FDP;21289227249;;
+Petry;Frauke;AfD;Parteivorsitzende;https://www.facebook.com/Dr.Frauke.Petry;782456275140355;;
+Meuthen;Jörg;AfD;Parteivorsitzender;https://www.facebook.com/Prof.Dr.Joerg.Meuthen;554345401380836;;
+Gauland;Alexander;AfD;Stellv. Vorsitzender;;;;
+von Storch;Beatrix;AfD;Stellv. Vorsitzende;https://www.facebook.com/BeatrixVonStorch;549796328395150;;
+Glaser;Albrecht;AfD;Stellv. Vorsitzender;;;;
+AfD;AfD;AfD;Partei;https://www.facebook.com/alternativefuerde;540404695989874;;

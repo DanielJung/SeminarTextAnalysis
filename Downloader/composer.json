@@ -1,0 +1,13 @@
+{
+    "name": "vendor/downloader",
+    "description": "Description of project Downloader.",
+    "authors": [
+        {
+            "name": "danie",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "facebook/graph-sdk" : "~5.0"
+    }
+}
